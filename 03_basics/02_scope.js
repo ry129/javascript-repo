@@ -46,7 +46,7 @@ if (true) {
 console.log(addone(5))
 
 function addone(num){
-    return num + 1
+    return num + 2
 }
 
 
