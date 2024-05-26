@@ -1,4 +1,4 @@
-// Immediately Invoked Function Expressions (IIFE)
+//Immediately Invoked Function Expressions (IIFE);
 
 
 (function chai(){
